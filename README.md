@@ -4,7 +4,7 @@ A Multi Use Task Planning App Developed in Flutter.
 
 ## Status and Images
 
-This project is being actively developed and maintained by Kishan Rajeev.
+This project is being actively developed and maintained by Swaminathan Jagadeesan & Kishan Rajeev.
 
 #### Flutter App Screenshots
 
